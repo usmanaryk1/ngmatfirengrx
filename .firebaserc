@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "ngmatfirengrx"
+  },
+  "targets": {
+    "ngmatfirengrx": {
+      "hosting": {
+        "ngmatfirengrx": [
+          "ngmatfirengrx"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
